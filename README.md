@@ -1,8 +1,8 @@
 ### Hi, I'm Ryan 👋
-I have a background in both music composition and theory where I have learned to connect creativity with abstract thinking. Now, as a full stack developer,  I am excited to combine all of these skills to write elegant, meaningful code. 
+I have a background in both music composition and theory where I have learned to connect creativity with abstract thinking. Now, as a frontend developer,  I am excited to combine all of these skills to write elegant, meaningful code. 
 
 - 🎓  Full Stack Web Developer grad from Flatiron School.
-- 😵  I am excited about Ruby on Rails, Javascript, React, and Redux.
+- 😵  I am excited about JavaScript, jQuery, React/Redux.
 - 🔭  Working on an e-commerce web app featuring a Rails API backend and React/Redux frontend. 
 - 🌱  Learning about Node.js API requests 
 - 💬  Ask me anythig about music!
