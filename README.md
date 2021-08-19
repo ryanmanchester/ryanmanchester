@@ -4,7 +4,7 @@ I have a background in both music composition and theory where I have learned to
 - 🎓  Frontend Web Developer grad from Flatiron School.
 - 😵  I am excited about JavaScript, Node.js, React, Redux, and HTML/CSS frameworks such as Handlebars and Bootstrap. 
 - 🔭  Working on a React chatbot to serve resources dedicated to mental health and therapy. 
-- 🌱  Learning about Node.js API requests 
+- 🌱  Learning TypeScript! 
 - 💬  Ask me anythig about music!
 - 📫  Find me on my <a href="www.ryanmanchester.info"/>portfolio site</a>.
 
