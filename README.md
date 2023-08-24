@@ -1,9 +1,8 @@
 ### Hi, I'm Ryan 👋
-I have a background in both music composition and theory where I have learned to connect creativity with abstract thinking. Now, as a frontend developer,  I am excited to combine all of these skills to write elegant, meaningful code. 
+I have a background in both music composition and theory where I have learned to connect creativity with abstract thinking. Now, as a full stack developer, I am excited to combine all of these skills to write elegant, meaningful code. 
 
 - 🎓  Full Stack Web Developer grad from Flatiron School.
-- 😵  I am excited about Java, JavaScript, React, Ruby, and Selenium
-- 🌱  I am always learning! Currently learning full stack web apps usning Java and Spring
+- 😵  I am excited about Java, JavaScript, JUnit, Selenium, Spring Boot, and TestNG.
 - 💬  Ask me anythig about music!
 - 📫  Find me on my <a href="www.ryanmanchester.info"/>portfolio site</a>.
 
