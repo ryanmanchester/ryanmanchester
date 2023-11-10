@@ -4,7 +4,7 @@ I have a background in both music composition and theory where I have learned to
 - 🎓  Java Full Stack Developer.
 - 😵  I am excited about Java, JavaScript, JUnit, Selenium, Spring Boot, and TestNG.
 - 💬  Ask me anythig about music!
-- 📫  Find me on my <a href="www.ryanmanchester.info"/>portfolio site</a>.
+- 📫  Find me on my <a href="https://www.ryanmanchester.info/"/>portfolio site</a>.
 
 - ⚡ Fun fact: I still write and record music. Find me on <a href="https://open.spotify.com/artist/5Ov5QA5DAgkXHQLMKyVSJe?si=EDU1fqX-TU2YZH9N-m36dg">Spotify</a>
 <!--
